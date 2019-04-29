@@ -7,3 +7,6 @@ y <- 3
 z <- x + y
 
 print(z*09946998408)
+
+#Exercício 3
+head(mtcars)
